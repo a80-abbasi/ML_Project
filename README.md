@@ -1,3 +1,2 @@
-You can find our final trained model and mlruns folder on our github:
-https://github.com/a80-abbasi/ML_Project
-We couldn't upload it due to quera file size limit
+## Machine Learning course project  
+Building a Recommender System, predicting user's response to advertisements with various Machine Learning models from raw data.
